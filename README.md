@@ -1,2 +1,1 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/s279560027/frontend-testing-react-project-67/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/s279560027/frontend-testing-react-project-67/actions)
+npx babel-node bin/page-loader https://ru.hexlet.io/my -o /var/tmp
